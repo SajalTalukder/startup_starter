@@ -2,6 +2,11 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
+// Task To do (Follow the tutorial)
+// 1) Customize your font
+// 2) Add the font to your layout
+// 3) Add Metadata to your layout
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
